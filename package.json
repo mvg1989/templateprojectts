@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "typescript": "^4.6.3"
-  }
+  },
+  "name": "templateprojectts",
+  "description": "Template for projects in typescript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvg1989/templateprojectts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvg1989/templateprojectts/issues"
+  },
+  "homepage": "https://github.com/mvg1989/templateprojectts#readme"
 }
